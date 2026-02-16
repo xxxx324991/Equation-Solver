@@ -9,7 +9,7 @@ Comprehensive Operator Overloading: Implemented +, -, *, /, +=, -=, and << for s
 Precision Handling: Optimized for complex coefficients where standard numerical solvers often struggle.
 Robust Logic: Beyond classroom exercises, this class manages real-imaginary interactions with high mathematical rigor.
 
-🚀 Solvability Scope
+🚀 Solvability Scope\n
 Quadratic Equations: $ax^2 + bx + c = 0$
 Cubic Equations: $ax^3 + bx^2 + cx + d = 0$
 Quartic Equations: $ax^4 + bx^3 + cx^2 + dx + e = 0$ (Implemented using radical-based numerical methods).
