@@ -29,6 +29,4 @@ Quartic Equations: $ax^4 + bx^3 + cx^2 + dx + e = 0$ (Implemented using radical-
 
 Here is a glimpse of the logical depth in the Complex class:
 
-Complex operator*(const Complex& other) const{
-    return Complex(real * other.real - imag * other.imag,real * other.imag + imag * other.real);
-}
+Complex operator*(const Complex& other) const
